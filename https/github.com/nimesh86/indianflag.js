@@ -1,1 +1,1 @@
-$("#sidebar").css('background', '-webkit-gradient(linear, left top, left bottom, color-stop(0%,#f17432), color-stop(9%,#ef9669), color-stop(48%,#ffffff), color-stop(57%,#ffffff), color-stop(85%,#a2e29e), color-stop(85%,#a2e29e), color-stop(100%,#5ee557))');
+(function(){$("#sidebar").css('background', '-webkit-gradient(linear, left top, left bottom, color-stop(0%,#f17432), color-stop(9%,#ef9669), color-stop(48%,#ffffff), color-stop(57%,#ffffff), color-stop(85%,#a2e29e), color-stop(85%,#a2e29e), color-stop(100%,#5ee557))')})()
